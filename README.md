@@ -41,7 +41,7 @@ event.outcome to show if the event was successful or not
 
 Now I can see that the service admin account has ran successful powershell scripts 
 
-![image](https://github.com/user-attachments/assets/ca18bd51-a44c-489e-8760-1fee711d3989
+![image](https://github.com/user-attachments/assets/ca18bd51-a44c-489e-8760-1fee711d3989)
 
 Now I will add a source.ip to filter out the ip address
 
