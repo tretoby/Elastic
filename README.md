@@ -47,7 +47,7 @@ Now I will add a source.ip to filter out the ip address
 
 ![image](https://github.com/user-attachments/assets/25c5204c-81bb-40e8-aae3-b2a94d743a4d)
 
-I need to see hen this first occured so i will set back my startdate to November 29th
+I need to see when this first occured so I will set back my start date to November 29th
 
 ![image](https://github.com/user-attachments/assets/d57d09e4-0e46-4841-8f2f-6df623081c89)
 
@@ -63,7 +63,7 @@ I will also filter using the source ip address
 
 ![image](https://github.com/user-attachments/assets/1f54ac2d-e7d1-400f-aad2-f377b4b9ce82)
 
-Now it is filtered down to 5,702 hits
+It filtered down to 5,702 hits
 
 ![image](https://github.com/user-attachments/assets/888d8498-abf5-4c2d-a966-f323348325a6)
 
@@ -87,7 +87,7 @@ using a base64 encoding it shows Install-WindowsUpdate -AcceptAll -AutoReboot
 
 ![image](https://github.com/user-attachments/assets/e31afcbc-3864-4f2d-b28e-d350368b5df5)
 
-using all of the data i collected I answered all of the TryHackMe questions
+using all of the data I collected I answered all of the TryHackMe questions correctly
 
 ![image](https://github.com/user-attachments/assets/e36824fb-2145-4b82-8654-d83c23dfbc4e)
 
