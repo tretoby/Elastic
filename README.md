@@ -1,6 +1,7 @@
 ***Elastic***
 
 **Objective**
+
 Implement and optimize an Elastic Stack (Elasticsearch, Logstash, and Kibana) solution to centralize, analyze, and visualize system logs and application data, improving real-time monitoring, troubleshooting efficiency, and decision-making through actionable insights.
 - Using TryHackMe questions
 
